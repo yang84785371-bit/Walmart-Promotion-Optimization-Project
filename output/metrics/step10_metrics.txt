@@ -1,0 +1,10 @@
+data_path=outputs/datasets/forecast_features_w1.csv
+split_date=2012-01-01
+y_clip_q=0.005
+nonneg_pred=False
+n_train=289866
+n_val=123813
+n_features=22
+categorical=['Store', 'Dept', 'tier', 'store_profile']
+MAE=1520.6286
+RMSE=3509.9555

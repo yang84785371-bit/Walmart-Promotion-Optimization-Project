@@ -1,0 +1,5 @@
+data_path=outputs/datasets/forecast_features_w1.csv
+split_date=2012-01-01
+n_val=123813
+MAE=2089.4946
+RMSE=4774.4854

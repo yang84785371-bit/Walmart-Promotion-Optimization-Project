@@ -1,0 +1,5 @@
+step15A robustness summary (holiday vs non_holiday)
+- group_col=overall: stable_all 1/1 (100.0%)
+- group_col=store_profile: stable_all 2/2 (100.0%)
+- group_col=tier: stable_all 3/3 (100.0%)
+- group_col=tier_store_profile: stable_all 4/4 (100.0%)
