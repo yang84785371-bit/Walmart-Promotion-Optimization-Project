@@ -1,0 +1,1 @@
+python src/step16_promo_allocation.py --budget 2000000 --max_depts 30 --max_stores 45

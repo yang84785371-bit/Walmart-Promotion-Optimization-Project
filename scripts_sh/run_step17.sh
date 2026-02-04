@@ -1,0 +1,1 @@
+python src/step17_execution_sheet.py --only_allocated
